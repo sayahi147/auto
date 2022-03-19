@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "title": "السلسلة رقم 1",
+    "description": "للنجاح في اختبار قانون الطرقات، يجب أن يكون لديك ما لا يقل عن 24/30 من الإجابات الصحيحة، وبحد أقصى 6 أخطاء. \n هذه السلسلة تحتوي على 30 سؤالا مختلفا",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "تتغير جهة الوقوف كل يوم",
+        "test": "/images/back4.jpg",
+        "duration":15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "بين الساعة الثامنة و الثامنة و النصف ليلا",
+            "isCorrect": true
+          },
+          {
+            "text": "بين الساعة الثامنة و النصف و الساعة التاسعة ليلا",
+            "isCorrect": false
+          },
+          {
+            "text": "بين الساعة التاسعة و التاسعة و النصف ليلا",
+            "isCorrect": false
+          }
+        ]
+        
+
+      },
+      {
+        "text": "يطبّق تحديد السرعة",
+        "test": "/images/back3.jpeg",
+        "duration": 15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "فورا",
+            "isCorrect": true
+          },
+          {
+            "text": "على بعد 50 مترا",
+            "isCorrect": false
+          },
+          {
+            "text": "على بعد 100 مترا",
+            "isCorrect": false
+          }
+        ]
+
+      },
+      
+      
+      {
+        "text": "يمكن إستعمال هذا الهاتف ",
+        "test": "/images/back5.jpg",
+        "duration": 15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "لقضاء حاجة شخصية",
+            "isCorrect": false
+          },
+          {
+            "text": "لإعلام طبيب",
+            "isCorrect": false
+          },
+          {
+            "text": "في حالة عطب",
+            "isCorrect": true
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title":"السلسلة رقم 2",
+    "description": "للنجاح في اختبار قانون الطرقات، يجب أن يكون لديك ما لا يقل عن 24/30 من الإجابات الصحيحة، وبحد أقصى 6 أخطاء. \n هذه السلسلة تحتوي على 30 سؤالا مختلفا",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Science question 01",
+        "test": "/images/back4.jpg",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 02",
+        "test": "/images/back4.jpg",
+        "duration": 15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 03",
+        "test": "/images/back4.jpg",
+        "duration": 20,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 04",
+        "test": "/images/back4.jpg",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 05",
+        "test": "/images/back4.jpg",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 06",
+        "test": "/images/back4.jpg",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Music Quiz 01",
+    "description": "هذه السلسلة تحتوي على 30 سؤالا مختلفا",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Music question 01",
+        "test": "/images/back4.jpg",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 02",
+        "test": "/images/back4.jpg",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 03",
+        "test": "/images/back4.jpg",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 04",
+        "test": "/images/back4.jpg",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 05",
+        "test": "/images/back4.jpg",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          }
+          
+        ]
+      }
+    ]
+  }
+]

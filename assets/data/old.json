@@ -1,0 +1,458 @@
+[
+    {
+      "id": 1,
+      "title": "السلسلة رقم 1",
+      "description": "This is a science quiz description. This is multiline text",
+      "shuffleQuestions": true,
+      
+      "categoryId": 1,
+      "questions": [
+        {
+          "text": "تتغير جهة الوقوف كل يوم",
+          "duration":15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "بين الساعة الثامنة و الثامنة و النصف ليلا",
+              "isCorrect": true
+            },
+            {
+              "text": "بين الساعة الثامنة و النصف و الساعة التاسعة ليلا",
+              "isCorrect": false
+            },
+            {
+              "text": "بين الساعة التاسعة و التاسعة و النصف ليلا",
+              "isCorrect": false
+            }
+          ]
+          
+  
+        },
+        {
+          "text": "يطبّق تحديد السرعة",
+          "duration": 15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "فورا",
+              "isCorrect": true
+            },
+            {
+              "text": "على بعد 50 مترا",
+              "isCorrect": false
+            },
+            {
+              "text": "على بعد 100 مترا",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        
+        
+        {
+          "text": "يمكن إستعمال هذا الهاتف ",
+          "duration": 15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "لقضاء حاجة شخصية",
+              "isCorrect": false
+            },
+            {
+              "text": "لإعلام طبيب",
+              "isCorrect": false
+            },
+            {
+              "text": "في حالة عطب",
+              "isCorrect": true
+            }
+          ]
+  
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "السلسلة رقم 2",
+      "description": "This is a science quiz description. This is multiline text",
+      "shuffleQuestions": true,
+     
+      "categoryId": 1,
+      "questions": [
+        {
+          "text": "Science question 01",
+          "duration":15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Add Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B ddText",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C ddText",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 02",
+          "duration": 15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A ddText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option Bdd Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option Cdddddddd Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        
+        
+        {
+          "text": "Science question 03",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A ddText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option Bdd ddText",
+              "isCorrect": false
+            },
+            {
+              "text": "Option Cdd Text",
+              "isCorrect": false
+            }
+          ]
+  
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "السلسلة رقم 3",
+      "description": "This is a science quiz description. This is multiline text",
+      "shuffleQuestions": true,
+      
+      "categoryId": 1,
+      "questions": [
+        {
+          "text": "Science question 01",
+          "duration":15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Optiondd A Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option ddB Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Tddext",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 02",
+          "duration": 15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A ,n,nText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option Bkn,kn Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C l,Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        
+        
+        {
+          "text": "Science question 03",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A llText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B ùùText",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C llText",
+              "isCorrect": false
+            }
+          ]
+  
+        }
+      ]
+    },
+  
+    {
+      "id": 4,
+      "title": "السلسلة رقم 4",
+      "description": "This is a science quiz 2 description. This is multiline text",
+      "shuffleQuestions": true,
+          "categoryId": 1,
+      "questions": [
+        {
+          "text": "Science question 01",
+          "duration": 10,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A vvvText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B vvvText",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 02",
+          "duration": 15,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Avvv Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 03",
+          "duration": 20,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Avvv Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 04",
+          "duration": 25,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A vvvText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 05",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Avvv Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Science question 06",
+          "duration": 35,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Avvv Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option Bvvv Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C vvvText",
+              "isCorrect": false
+            }
+          ]
+  
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "السلسلة رقم 5",
+      "description": "This is a quiz description. This is multiline text",
+      "shuffleQuestions": true,
+      
+      "categoryId": 2,
+      "questions": [
+        {
+          "text": "Music questionvvv 01",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Avvv Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option Bvvv Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Music question 02",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Adff Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        },
+        {
+          "text": "Music question 03",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option Afffffffff Text",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Music question 04",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A ffffffText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ] 
+  
+        },
+        {
+          "text": "Music question 05",
+          "duration": 30,
+          "shuffleOptions": true,
+          "options": [
+            {
+              "text": "Option A fffffffText",
+              "isCorrect": true
+            },
+            {
+              "text": "Option B Text",
+              "isCorrect": false
+            },
+            {
+              "text": "Option C Text",
+              "isCorrect": false
+            }
+          ]
+  
+        }
+      ]
+    }
+  ]
