@@ -1,38 +1,53 @@
 [
   {
     "id": 1,
-    "name": "Science",
+    "name": "قواعد الجولان",
     "imagePath": "assets/icons/category/code.jpeg"
   },
   
   {
     "id": 3,
-    "name": "Sports",
+    "name": "الإسعافات الأولية",
     "imagePath": "assets/icons/category/sports.png"
   },
   {
     "id": 4,
-    "name": "Nakjkjjture",
+    "name": "علامات ",
     "imagePath": "assets/icons/category/nature.png"
   },
   {
     "id": 5,
-    "name": "English",
+    "name": "نقل مواد خطرة",
     "imagePath": "assets/icons/category/language.png"
   },
   {
     "id": 6,
-    "name": "Mathematics",
+    "name": "السوّاق و العربات",
     "imagePath": "assets/icons/category/math.png"
   },
   {
     "id": 7,
-    "name": "Science",
+    "name": "الوقوف والتوقف ",
     "imagePath": "assets/icons/category/code.jpeg"
   },
   {
     "id": 8,
-    "name": "Music",
+    "name": "المقاطعة و المجاوزة",
+    "imagePath": "assets/icons/category/music.png"
+  },
+  {
+    "id": 9,
+    "name": "المخالفات",
+    "imagePath": "assets/icons/category/music.png"
+  },
+  {
+    "id": 10,
+    "name": "الصيانة",
+    "imagePath": "assets/icons/category/music.png"
+  },
+  {
+    "id": 11,
+    "name": "الأولوية",
     "imagePath": "assets/icons/category/music.png"
   }
 ]

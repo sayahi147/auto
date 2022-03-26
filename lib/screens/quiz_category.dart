@@ -83,6 +83,7 @@ class _QuizCategoryScreenState extends State<QuizCategoryScreen> {
                   child: categoryListViewItem(x),
                   onTap: () {
                     Navigator.of(context).pushNamed(
+                        //here 
                         QuizCategoryDetailsScreen.routeName,
                         arguments: x);
                   },
