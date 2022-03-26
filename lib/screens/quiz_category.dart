@@ -32,7 +32,7 @@ class _QuizCategoryScreenState extends State<QuizCategoryScreen> {
     return SafeArea(
       child: Scaffold(
         body: Container(
-          padding: EdgeInsets.only(left: 10, right: 10),
+          padding: EdgeInsets.only(left: 500, right: 500),
           alignment: Alignment.center,
           decoration: ThemeHelper.fullScreenBgBoxDecoration(),
           child: Column(
@@ -95,21 +95,25 @@ class _QuizCategoryScreenState extends State<QuizCategoryScreen> {
 
   Widget categoryListViewItem(Category category) {
     return Container(
-      width: 160,
+      width: 300,
       alignment: Alignment.center,
       padding: EdgeInsets.all(10),
       decoration: BoxDecoration(
           color: Colors.white,
-          borderRadius: BorderRadius.all(Radius.circular(15))),
-      child: Column(
+          borderRadius: BorderRadius.all(Radius.circular(30))),
+      child: Row(
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Image(
-            image: AssetImage(category.imagePath),
-            width: 130,
+         Image(
+            
+            image: AssetImage(category.imagePath,),
+            width: 80,
           ),
-          Text(category.name),
+          Expanded(
+          child:Text(category.name,style:TextStyle(color:Color.fromARGB(255, 14, 13, 12),fontSize:30)),
+          ),
+          
         ],
       ),
     );

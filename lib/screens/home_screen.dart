@@ -162,13 +162,22 @@ class _HomeScreenState extends State<HomeScreen> {
       //  ),
      //  isActive: true,
     //  ),
-      DiscoButton(
+       Container(
+             width: 450.0,
+             height: 400.0,
+             child:Image.asset("/images/back2.png", width: 800,height: 800,),
+
+          ),
+       FlatButton(
+       //color: Color.fromARGB(255, 233, 231, 232),  
+
         onPressed: () {
           Navigator.pushNamed(context, QuizCategoryScreen.routeName);
         },
         child: Text(
           "المحاور",
-          style: TextStyle(fontSize: 30, color: ThemeHelper.primaryColor),
+          style: TextStyle(fontSize: 40, color:Colors.black //ThemeHelper.primaryColor
+          ),
         ),
       ),
       DiscoButton(
