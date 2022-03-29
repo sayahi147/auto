@@ -23,10 +23,9 @@ class ThemeHelper {
     );
   }
 
-  static BoxDecoration fullScreenBgBoxDecoration(
-      {String backgroundAssetImage = "assets/images/back.png"}) {
+  static BoxDecoration fullScreenBgBoxDecoration() {
     return BoxDecoration(
-      image: DecorationImage(image: AssetImage(backgroundAssetImage), fit: BoxFit.cover),
+      color: Colors.white
     );
   }
 
